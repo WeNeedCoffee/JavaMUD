@@ -1,6 +1,6 @@
 package coffee.weneed.mud.data;
 
-import coffee.weneed.utils.IJSONObjectDataHolder;
+import coffee.weneed.utils.dataholders.IJSONObjectDataHolder;
 
 public interface IItem extends IJSONObjectDataHolder {
 

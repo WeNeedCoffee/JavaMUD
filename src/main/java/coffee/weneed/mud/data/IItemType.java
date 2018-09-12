@@ -1,6 +1,6 @@
 package coffee.weneed.mud.data;
 
 
-public enum ItemType {
+public interface IItemType {
 
 }

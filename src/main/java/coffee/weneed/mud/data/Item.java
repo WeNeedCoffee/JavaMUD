@@ -16,7 +16,7 @@ public class Item implements IItem {
 	/**
 	 * The ItemType
 	 */
-	private ItemType type;
+	private EItemType type;
 	
 	/**
 	 * The density of the item
